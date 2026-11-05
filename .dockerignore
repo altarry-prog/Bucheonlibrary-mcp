@@ -1,0 +1,9 @@
+.venv/
+.tmp/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+private/
+.git/
